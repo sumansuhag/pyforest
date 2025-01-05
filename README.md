@@ -1,5 +1,3 @@
-# PyForest Data Analysis
-
 ## Overview
 The **PyForest Data Analysis** project demonstrates how to analyze datasets using the PyForest library, which simplifies the process of data exploration and visualization in Python. This notebook provides a hands-on approach to understanding data through various statistical methods and visualizations.
 
@@ -39,5 +37,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 8. **Results**: Explain what results can be expected from the analysis.
 9. **Contributing**: Encourage others to contribute to your project.
 10. **License**: Specify the license under which your project is distributed.
-
-Feel free to modify this template to suit your specific project needs! If you have any further questions or need additional assistance, let me know!
